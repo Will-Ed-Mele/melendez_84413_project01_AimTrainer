@@ -3,6 +3,7 @@ This program is based off of FPS aim trainers like KovaaK 2.0 and Aim Lab. Excep
 Once you click the start button squares will start to appear and you have 1 second to click on them before they disappear and the 
 next square appears in a random place. After you go through 25 squares you will see how much time it took you to complete the game and your accuracy
 based on how many squares you clicked.
+*** This game uses classes to work ***
 
 # Algorithm
 This game draws one 25x25 rectangle and then moves the rectangle around on the screen. Instead of undrawing it and drawing a new rectangle. 
